@@ -4,12 +4,28 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Blend Images](/sample_page)
 <img src="images/blendimages?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 3D Pop Out Effect](/pdf/sample_presentation.pdf)
 <img src="images/3D Pop Out Effect.png?raw=true"/>
+
+---
+[Project 3 Ripped ](http://example.com/)
+<img src="images/ripeffect.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

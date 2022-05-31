@@ -8,28 +8,37 @@
 <img src="images/blendimages?raw=true"/>
 
 ---
-[Project 2 3D Pop Out Effect](/pdf/sample_presentation.pdf)
+[Project 2 Liquid Graffiti](http://example.com/)
+<img src="images/Liquid Graffiti.png?raw=true"/>
+
+---
+[Project 3 3D Pop Out Effect](/pdf/sample_presentation.pdf)
 <img src="images/3D Pop Out Effect.png?raw=true"/>
 
 ---
-[Project 3 Ripped ](http://example.com/)
+[Project 4 Ripped Effect](http://example.com/)
 <img src="images/ripeffect.jpg?raw=true"/>
 
 ---
-[Project 3 Double Exposure](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 5 Double Exposure](http://example.com/)
+<img src="images/LA Sunset.png?raw=true"/>
 
 ---
-[Project 3 Cool Retro Collage](http://example.com/)
+
+[Project 6 Cool Retro Collage](http://example.com/)
 <img src="images/Retro Collage.jpg?raw=true"/>
 
 ---
-[Project 3 Galaxy Cat](http://example.com/)
+[Project 7 Galaxy Cat](http://example.com/)
 <img src="images/Galaxy Cat.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 8 Adobe Creative Project](http://example.com/)
+<img src="images/My project (1).png?raw=true"/>
+
+---
+[Project 9 Final Project: Surrealism](http://example.com/)
+<img src="images/Celebrity Starbucks.png?raw=true"/>
 
 ---
 

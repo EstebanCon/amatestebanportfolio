@@ -16,12 +16,12 @@
 <img src="images/ripeffect.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Double Exposure](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Cool Retro Collage](http://example.com/)
+<img src="images/Retro Collage.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

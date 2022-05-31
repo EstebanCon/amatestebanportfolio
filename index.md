@@ -24,8 +24,8 @@
 <img src="images/Retro Collage.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 Galaxy Cat](http://example.com/)
+<img src="images/Galaxy Cat.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
